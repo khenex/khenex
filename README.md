@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I am Eduard!
 
-<!--
-**khenex/khenex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring IT professional focus on Networking, Cybersecurity and Cloud Technologies.
 
-Here are some ideas to get you started:
+I have completed the Google IT support by Google on Coursera, and I am building projects and enhancing my knowledge and skills by learning relevant courses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Network Projects:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://linkedin.com/in/eduardburcea/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
