@@ -4,7 +4,7 @@
 
 I have completed the Google IT support by Google on Coursera, and I am building projects and enhancing my knowledge and skills by learning relevant courses.
 
-### 👨‍💻 Network Projects:
+### CCNA Packet Tracer Labs:
 
 
 
